@@ -1,8 +1,9 @@
 # CLI chat with GO websocket
 
+<img src="assets/logo.jpg" style="width: 100%"/>
+
 This is a simple chat CLI written in Go
 
-<img src="assets/sample.jpg"/>
 
 Steps to start the server
 
@@ -19,3 +20,5 @@ pip3 install -r requirements.txt
 python3 clichat.py
 ```
 
+Usage:
+<img src="assets/sample.jpg"/>
