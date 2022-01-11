@@ -2,6 +2,8 @@
 
 This is a simple chat CLI written in Go
 
+<img src="assets/sample.jpg"/>
+
 Steps to start the server
 
 ```

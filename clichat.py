@@ -9,7 +9,7 @@ import threading
 import urwid
 from urwid import MetaSignals
 
-url = "ws://1f76-103-221-73-190.ngrok.io/ws"
+url = "ws://localhost:8000/ws"
 
 user_name = input("Name: ")
 
